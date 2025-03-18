@@ -1,6 +1,25 @@
 {
+  "name": "quaiantiquerestaurantfront",
+  "version": "1.0.0",
+  "description": "Ce site est un site vitrine pour le restaurant Quai Antique",
+  "homepage": "https://github.com/Gelebart-hue/QuaiAntiqueRestaurantFront#readme",
+  "bugs": {
+    "url": "https://github.com/Gelebart-hue/QuaiAntiqueRestaurantFront/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gelebart-hue/QuaiAntiqueRestaurantFront.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
     "bootstrap": "^5.3.3",
     "bootstrap-icons": "^1.11.3"
-  }
+  },
+  "devDependencies": {}
 }
