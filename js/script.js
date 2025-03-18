@@ -120,7 +120,7 @@ function getInfosUser() {
             return response.json();
         }
         else {
-            console.("Impossible de récupérer les informations utilisateur");
+            console.log("Impossible de récupérer les informations utilisateur");
         }
       })
       .then(result => {
